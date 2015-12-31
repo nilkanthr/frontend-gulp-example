@@ -1,0 +1,22 @@
+*.7z
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+*.log
+*.sql
+*.sqlite
+
+# Build systems #
+node_modules/
+bower_components/
+.sass-cache
+*.css.map
+build/
+dist/
+
+
